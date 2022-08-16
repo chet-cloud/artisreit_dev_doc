@@ -1,0 +1,6 @@
+[book]
+authors = ["cchen@artisreit.com"]
+language = "en"
+multilingual = false
+src = "src"
+title = "artisreit_doc"
