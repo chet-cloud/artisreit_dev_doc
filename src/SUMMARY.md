@@ -14,10 +14,11 @@
     - [300main](./c2_9-300main.md)
     - [Kiosk](./c2_10-kiosk.md)
 
-- [Strategies](./c3-strategies.md)
-    - [Jamstack](./c3_1-jamstack.md)
+- [Improvement](./c3-wordpress_improvement.md)
+    - [solutions](./c3_1-solutions_for_improvement.md)
+    - [hosting](./c3_2-host_static_websites.md)
 
-- [Deployment](./c4-deployments.md)
+- [Jamstack](./c4-jamstack.md)
 
 - [Azure resoruce](./c5-azure_resource.md)
 
