@@ -17,6 +17,7 @@
 - [Improvement](./c3-wordpress_improvement.md)
     - [solutions](./c3_1-solutions_for_improvement.md)
     - [hosting](./c3_2-host_static_websites.md)
+    - [migration](./c3_3-migration_WP_media_files.md)
 
 - [Jamstack](./c4-jamstack.md)
 
