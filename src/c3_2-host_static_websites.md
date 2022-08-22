@@ -22,7 +22,7 @@ pros and cons:
 2. free azure static website for general website, but only can ceate 10 free static website every subscript
 3. github action can be used to as the automation for publish-build process
 
-### solution 2
+### solution 3
 - create a github account
 - bind the github account to a free azure static website or not-free azure static
 
