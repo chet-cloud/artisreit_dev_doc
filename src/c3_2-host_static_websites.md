@@ -1,8 +1,8 @@
 # solutions to host static websites
 
-### solution 1
+### solution 1 - storage accounts with CDN endpoint
 - create many storage accounts 
-- open static website of the storage account
+- open CDN endpoint of every storage account
 - Migrate custom domains to CDN - https://stackoverflow.com/questions/69368475/can-i-run-multiple-static-websites-in-an-azure-storage-account-using-subfolders
 
 pros and cons:
@@ -13,7 +13,7 @@ pros and cons:
 5. github action for deployment (https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-static-site-github-actions?tabs=userlevel)
 
 
-### solution 2
+### solution 2 - azure static website
 - create a github account
 - bind the github account to a free azure static website or not-free azure static
 
@@ -22,9 +22,9 @@ pros and cons:
 2. free azure static website for general website, but only can ceate 10 free static website every subscript
 3. github action can be used to as the automation for publish-build process
 
-### solution 3
+### solution 3 - github pages
 - create a github account
-- bind the github account to a free azure static website or not-free azure static
+- open github pages of some project
 
 pros and cons:
 1. every github project has a space to host the static website files
