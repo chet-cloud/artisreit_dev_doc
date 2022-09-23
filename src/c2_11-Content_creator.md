@@ -150,6 +150,9 @@ Generate video content from existing Blog posts.
     In the wordpress static task, I have developed a tool to generate each post to files 
     https://github.com/chet-cloud/zola_website/tree/main/content
 
+
+    divide the post into text, audio, and images.
+
 3. text-to-speech api
    
     Call amazon api to get audio of the post and save them
