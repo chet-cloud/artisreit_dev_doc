@@ -13,6 +13,7 @@
     - [Fetcher](./c2_8-Fetcher.md)
     - [300main](./c2_9-300main.md)
     - [Kiosk](./c2_10-kiosk.md)
+    - [Content_creator](./c2_11-Content_creator.md)
 
 - [Improvement](./c3-wordpress_improvement.md)
     - [solutions](./c3_1-solutions_for_improvement.md)
