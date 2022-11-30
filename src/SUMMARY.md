@@ -17,7 +17,7 @@
     - [PHP debugger](./c2_12-PHP_debugger.md)
     - [Template engine](./c2_13-template_engine.md)
 
-- [Improvement](./c3-wordpress_improvement.md)
+- [Improvement for wordpress in artisreit](./c3-wordpress_improvement.md)
     - [solutions](./c3_1-solutions_for_improvement.md)
     - [hosting](./c3_2-host_static_websites.md)
     - [migration](./c3_3-migration_WP_media_files.md)
