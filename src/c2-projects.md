@@ -12,6 +12,6 @@ There are many projects need to maintain and develop
 
 5. Landing pages
 
-6. Monitor
+6. nginx cache
 
 7. Strapi

@@ -8,7 +8,7 @@
     - [Simple php websites](./c2_3-Simple_php_websites.md)
     - [Wordpress websites](./c2_4-Wordpress_websites.md)
     - [Landing pages](./c2_5-Landing_pages.md)
-    - [Monitor](./c2_6-nginx_for_wordpress_websites.md)
+    - [nginx_for_websites](./c2_6-nginx_for_wordpress_websites.md)
     - [Strapi](./c2_7-Strapi.md)
     - [Fetcher](./c2_8-Fetcher.md)
     - [300main](./c2_9-300main.md)
