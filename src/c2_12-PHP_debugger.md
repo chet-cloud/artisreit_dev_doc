@@ -120,3 +120,17 @@ php-fpm_1    | 172.25.0.3 -  29/Nov/2022:22:35:12 +0000 "GET /a.php" 200
 
 - forward the port and open the page
 ![php_vscode_debuggert](./images/php_vscode_debuggert.jpg)
+
+
+
+## reload config
+if the nginx config changed, need to reload the config files with the following command:
+```shell
+docker exec -it artisreit_wordpress_81_webserver_1 nginx -s reload
+```
+
+# sometimes, need to set gateway ip to support debuger
+```shell
+xdebug.client_host = 172.19.0.1
+xdebug.client_port = 9003
+```
